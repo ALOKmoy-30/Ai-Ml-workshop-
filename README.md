@@ -1,2 +1,2 @@
 # Ai-Ml-workshop-
-Bct 
+Bct day 1
