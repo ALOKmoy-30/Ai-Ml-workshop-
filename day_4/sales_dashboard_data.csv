@@ -1,0 +1,9 @@
+Salesperson,Product,Month,Units Sold,Unit Price,Total Sales
+Rahul,Laptop,January,5,50000,250000
+Priya,Mouse,January,20,500,10000
+Aman,Keyboard,January,15,1000,15000
+Neha,Laptop,January,4,50000,200000
+Rahul,Keyboard,February,18,1000,18000
+Priya,Mouse,February,25,500,12500
+Aman,Laptop,February,6,50000,300000
+Neha,Mouse,February,30,500,15000
